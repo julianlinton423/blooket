@@ -29,7 +29,7 @@ export async function addTokens() {
 	console.log(session_token);
 
 	let JSONBody = {
-		addedTokens: 500,
+		addedTokens: 10000
 		addedXp: 300,
 		t: session_token,
 	};

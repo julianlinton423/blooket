@@ -58,4 +58,4 @@ export async function addTokens() {
 	location.reload();
 };
 
-//await addTokens();
+//await addTokens(1000);
